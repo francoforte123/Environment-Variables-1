@@ -1,0 +1,4 @@
+spring:
+  port: 4500
+devName: Emmanuele La Duca
+authCode: xyz458
